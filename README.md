@@ -15,7 +15,7 @@ I created it shortly after my old GIGABYTE B450 Aorus Elite board died during a 
 <h4>Working </h4>
 <h6>- Ethernet/LAN</h6>
 <h6>- All USB 3.0 / 2.0 ports working(USB Mapping)</h6>
-<h6>- App Store & all icloud services I tested</h6>
+<h6>- App Store & icloud services</h6>
 <h6>- Sleep / Wake</h6>
 <h6>- NVRAM</h6>
 <h6>- Onboard Audio</h6>
