@@ -21,8 +21,8 @@ I created it shortly after my old GIGABYTE B450 Aorus Elite board died during a 
 <h6>- Onboard Audio</h6>
 
 <h4>Not Working</h4>
-
-
+<h6>- ?</h6>
+<br/>
 
 <h4>Download</h4>
 If You are going to use this EFI, make sure to generate your own SMBIOS, I deleted some values there. Moreover add -v to NVRam in config.plist if You want to see verbose-mode during boot. 
