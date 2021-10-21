@@ -8,7 +8,7 @@ I created it shortly after my old GIGABYTE B450 Aorus Elite board died during a 
 <h6>- MSI MPG B550 Gaming Plus</h6>
 <h6>- AMD Ryzen 5 2600X</h6>
 <h6>- GIGABYTE AMD RX580 Gaming</h6>
-<h6>- ALC897 Audio Codec</h6>
+<h6>- ALC897 Audio Codec(ALC897 = alcid=66, ALC892=1)</h6>
 <h6>- Corsair 16GB DDR4 32000MHz Rgb Pro</h6>
 <h6>- Crucial P1 500GB, MacOS installed on Toshiba TR200 240gb</h6>
  
