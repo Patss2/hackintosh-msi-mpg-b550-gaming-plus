@@ -8,6 +8,7 @@ I created it shortly after my old GIGABYTE B450 Aorus Elite board died during a 
 - MSI MPG B550 Gaming Plus
 - AMD Ryzen 5 2600X
 - GIGABYTE AMD RX580 Gaming
+- ALC897 Audio Codec
 - Corsair 16GB DDR4 32000MHz Rgb Pro
 - Crucial P1 500GB, MacOS installed on Toshiba TR200 240gb
  
@@ -17,10 +18,10 @@ I created it shortly after my old GIGABYTE B450 Aorus Elite board died during a 
 - App Store & all icloud services I tested
 - Sleep / Wake
 - NVRAM
-
+- Onboard Audio
 
 <h4>Not Working</h4>
-- Onboard Audio (including digital audio)(I can not find the right AppleALC Layout)
+
 
 
 <h4>Download</h4>
