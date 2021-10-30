@@ -24,5 +24,6 @@ I created it shortly after my old GIGABYTE B450 Aorus Elite board died during a 
 <h6>- ?</h6>
 <br/>
 
-<h4>Download</h4>
-<h6>If You are going to use this EFI, make sure to generate your own SMBIOS, I deleted some values there. Moreover add -v to NVRam in config.plist if You want to see verbose-mode during boot. If your CPU does not have 6 cores like mine, you need to follow <a href="https://github.com/AMD-OSX/AMD_Vanilla">this guide</a> to change some values in config.plist.</h6>
+<h3>Installation</h3>
+<h5>If You are going to use this EFI, make sure to generate your own SMBIOS, I deleted some values there. Moreover add -v to NVRam in config.plist
+if You want to see verbose-mode during boot. If your CPU does not have 6 cores like mine, you need to follow <a href="https://github.com/AMD-OSX/AMD_Vanilla">this guide</a> to change some values in config.plist.</h5>
