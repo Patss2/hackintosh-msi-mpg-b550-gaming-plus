@@ -5,7 +5,7 @@
 I created it shortly after my old GIGABYTE B450 Aorus Elite board died during a BIOS Update, I got a new board and then needed to update my OpenCore EFI partition. After some struggling this is what I got:
 <img src="https://raw.githubusercontent.com/Patss2/hackintosh-msi-mpg-b550-gaming-plus/main/Screenshot.png" alt="Catalina" align="middle"> 
 <h4>My Hardware</h4>
-<h6>- MSI MPG B550 Gaming Plus (BIOS 7C56v18(beta), secure boot, svm and serial port support disabled)</h6>
+<h6>- MSI MPG B550 Gaming Plus (BIOS 7C56v18(beta), secure boot, svm and serial port support disabled, Above4G enabled)</h6>
 <h6>- AMD Ryzen 5 2600X</h6>
 <h6>- GIGABYTE AMD RX580 Gaming</h6>
 <h6>- ALC897 Audio Codec (ALC897 - alcid=66, ALC892 - alcid=1)</h6>
