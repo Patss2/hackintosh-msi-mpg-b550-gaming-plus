@@ -2,7 +2,7 @@
  <h3>OpenCore EFI for MSI MPG B550 Gaming Plus & Ryzen 5 2600X & RX580 setup.</h3>
  Following EFI build was created using <a href="https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#starting-point">this guide</a>.
 <br/><br/>
-I created it shortly after my old GIGABYTE B450 Aorus Elite board died during a BIOS Update, I got a new board and then needed to update my OpenCore EFI partition. After some struggling this is what I got:
+I created it shortly after my old GIGABYTE B450 Aorus Elite board died during to a BIOS Update, I got a new board and then needed to update my OpenCore EFI partition. After some struggling this is what I got:
 <img src="https://raw.githubusercontent.com/Patss2/hackintosh-msi-mpg-b550-gaming-plus/main/Screenshot.png" alt="Catalina" align="middle"> 
 <h4>My Hardware</h4>
 <h6>- MSI MPG B550 Gaming Plus (BIOS 7C56v18(beta), secure boot, svm and serial port support disabled, Above4G enabled)</h6>
